@@ -1,18 +1,19 @@
 <p align="center">
-  <img src="/github/Thumbnail.png" alt="Demonstração do projeto" width="100%"/>
+  <img src=".github/Thumbnail.png" alt="Demonstração do projeto" width="100%"/>
 </p>
 
 ## 🖥️ Projeto
 
-Este é um projeto de uma Aplicação Web para recomendar filmes aleatórios através de uma API
+Esta é uma Aplicação Web projetada para recomendar aleatóriamente os filmes mais populares da atualidade dispomibilizados pela API de The Movie DB.
 
 ## 🚀 Tecnologias
 
-Este projeto foi desenvolvido durante o desafio BoraCodar da Rockeset para consolidar aprendizagem sobre o JavaScript e sobre API's usando as seguintes tecnologias:
+Este projeto foi desenvolvido durante o desafio BoraCodar da Rocketseat para consolidar aprendizagem sobre o JavaScript e sobre API's usando as seguintes tecnologias:
 
 - HTML
 - CSS
 - JavaScript
+- API [TheMovieDB](https://developer.themoviedb.org/docs)
 - Git e Github
 
 ## 🏷️ Layout
